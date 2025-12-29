@@ -1,0 +1,27 @@
+{
+  "place": "London",
+  "purpose": "business",
+  "overview": [
+    "London is a global hub for finance, technology, and innovation, offering unparalleled networking opportunities.",
+    "Home to numerous international corporations and startups, it presents a dynamic and competitive business environment.",
+    "Excellent transport infrastructure connects major business districts and conference venues efficiently.",
+    "A vibrant ecosystem of co-working spaces, incubators, and accelerators supports business growth and collaboration.",
+    "Offers world-class hotels and conference facilities suitable for all types of business events and meetings."
+  ],
+  "things_to_know": [
+    "Business attire is generally expected, especially in finance and law sectors, though smart casual is increasingly common in tech.",
+    "Punctuality is highly valued in business meetings.",
+    "Business cards are still widely exchanged and can be an important networking tool.",
+    "Understand the Oyster card or contactless payment system for efficient public transport use.",
+    "Be aware of different time zones when scheduling international calls."
+  ],
+  "nearby_transport": [
+    "Heathrow Airport (LHR): Major international hub, accessible via Heathrow Express, Piccadilly Line (Tube), and TFL Rail.",
+    "Gatwick Airport (LGW): Second busiest airport, connected by Gatwick Express, Southern, and Thameslink trains.",
+    "London City Airport (LCY): Primarily serves European business routes, close to the Canary Wharf financial district.",
+    "Heathrow Terminal 5: Main hub for British Airways, offering extensive international connections.",
+    "St Pancras International: For Eurostar services to mainland Europe, facilitating cross-border business travel."
+  ],
+  "how_to_get_there": "London is a major international gateway with extensive flight connections to Heathrow (LHR), Gatwick (LGW), and London City (LCY) airports. For travel within Europe, Eurostar trains arrive at St Pancras International. Major train lines also connect London to various cities across the UK.",
+  "best_time_to_travel": "Spring (April to June) and Autumn (September to October) generally offer pleasant weather and fewer crowds, ideal for focused business trips. Avoid major holiday periods like Christmas and Easter for potentially lower accommodation costs and fewer disruptions."
+}
